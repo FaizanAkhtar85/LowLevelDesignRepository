@@ -20,6 +20,21 @@ Let's consider a real-world example to illustrate the Observer Pattern:
 Real-World Example:  
 Weather Station
 Imagine a weather station that gathers weather data (temperature, humidity, pressure) and broadcasts this information to multiple displays, such as a current conditions display, a statistics display, and a forecast display. The weather data is the subject, and the displays are the observers.
+
+`The Decorator Pattern`   
+is a structural design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class. It is achieved by creating a set of decorator classes that are used to wrap concrete components. This pattern is useful for adding functionalities to classes in a flexible and reusable way.
+
+`The Factory Pattern`   
+is a creational design pattern that provides an interface for creating objects in a superclass but allows subclasses to alter the type of objects that will be created. It involves defining an interface or abstract class for creating objects and letting the subclasses decide which class to instantiate. This pattern promotes loose coupling and separation of concerns.
+
+Here's a real-world example to illustrate the Factory Pattern:
+
+Real-World Example: Vehicle Manufacturing
+Consider a scenario where a vehicle manufacturing plant produces different types of vehicles, such as cars and motorcycles. The manufacturing process involves several steps, and different models of cars and motorcycles have variations in these steps.
+
+`The Abstract Factory Pattern`    
+is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. It involves creating multiple factory interfaces (abstract factories), each responsible for creating a family of related products. Concrete factories implement these interfaces to produce specific product instances.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
