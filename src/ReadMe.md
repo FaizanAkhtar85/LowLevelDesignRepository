@@ -35,6 +35,9 @@ Consider a scenario where a vehicle manufacturing plant produces different types
 `The Abstract Factory Pattern`    
 is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. It involves creating multiple factory interfaces (abstract factories), each responsible for creating a family of related products. Concrete factories implement these interfaces to produce specific product instances.
 
+
+`The Chain of Responsibility Pattern`   
+is a behavioral design pattern that allows an object to pass a request along a chain of handlers. Each handler in the chain decides either to process the request or to pass it to the next handler in the chain. This pattern decouples the sender of a request from its receiver and allows multiple objects to handle the request without the sender needing to know which object will ultimately process it.
 ********************************************
 
 LLD Topics 🔥 🔥 :
