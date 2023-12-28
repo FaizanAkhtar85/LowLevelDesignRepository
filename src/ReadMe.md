@@ -38,6 +38,10 @@ is a creational design pattern that provides an interface for creating families 
 
 `The Chain of Responsibility Pattern`   
 is a behavioral design pattern that allows an object to pass a request along a chain of handlers. Each handler in the chain decides either to process the request or to pass it to the next handler in the chain. This pattern decouples the sender of a request from its receiver and allows multiple objects to handle the request without the sender needing to know which object will ultimately process it.
+
+`The Proxy Pattern`   
+is a structural design pattern that provides a surrogate or placeholder for another object to control access to it. It involves creating a class (the proxy) that has the same interface as the real object, so the proxy can be used as a substitute for the real object. The proxy controls access to the real object, allowing additional functionality to be introduced, such as lazy loading, access control, logging, or monitoring.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
