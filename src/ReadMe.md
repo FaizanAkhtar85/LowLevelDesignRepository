@@ -42,6 +42,9 @@ is a behavioral design pattern that allows an object to pass a request along a c
 `The Proxy Pattern`   
 is a structural design pattern that provides a surrogate or placeholder for another object to control access to it. It involves creating a class (the proxy) that has the same interface as the real object, so the proxy can be used as a substitute for the real object. The proxy controls access to the real object, allowing additional functionality to be introduced, such as lazy loading, access control, logging, or monitoring.
 
+`The Null Object Pattern`   
+is a behavioral design pattern that provides an object as a surrogate for the lack of an object of a given type. Instead of using null to represent the absence of an object, a null object is created and used. This pattern helps avoid null checks and handles the absence of an object transparently.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
