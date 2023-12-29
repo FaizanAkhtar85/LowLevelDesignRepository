@@ -56,6 +56,15 @@ is a structural design pattern that allows you to compose objects into tree-like
 `The Adapter Design Pattern`    
 is a structural design pattern that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
 
+`The Facade Design Pattern`   
+is a structural design pattern that provides a unified interface to a set of interfaces in a subsystem. It defines a higher-level interface that makes the subsystem easier to use.
+
+`The Singleton Design Pattern`    
+ensures that a class has only one instance and provides a global point of access to that instance. It is commonly used when exactly one object is needed to coordinate actions across the system. Here's a real-world example of a Singleton pattern with a Logger implementation:
+
+`The Builder Design Pattern`    
+is a creational pattern that separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is particularly useful when an object needs to be created with many optional parameters.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
