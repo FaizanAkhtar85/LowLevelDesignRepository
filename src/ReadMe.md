@@ -45,6 +45,10 @@ is a structural design pattern that provides a surrogate or placeholder for anot
 `The Null Object Pattern`   
 is a behavioral design pattern that provides an object as a surrogate for the lack of an object of a given type. Instead of using null to represent the absence of an object, a null object is created and used. This pattern helps avoid null checks and handles the absence of an object transparently.
 
+`The State Design Pattern`        
+is a behavioral design pattern that allows an object to alter its behavior when its internal state changes. The pattern encapsulates the object's state into separate classes and delegates the state-specific behavior to these classes.
+
+Let's consider a real-world example of the State Pattern in the context of a vending machine.
 ********************************************
 
 LLD Topics 🔥 🔥 :
