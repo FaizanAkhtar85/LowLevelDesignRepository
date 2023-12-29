@@ -49,6 +49,10 @@ is a behavioral design pattern that provides an object as a surrogate for the la
 is a behavioral design pattern that allows an object to alter its behavior when its internal state changes. The pattern encapsulates the object's state into separate classes and delegates the state-specific behavior to these classes.
 
 Let's consider a real-world example of the State Pattern in the context of a vending machine.
+
+`The Composite Design Pattern`        
+is a structural design pattern that allows you to compose objects into tree-like structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions of objects uniformly.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
