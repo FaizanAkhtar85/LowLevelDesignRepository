@@ -53,6 +53,9 @@ Let's consider a real-world example of the State Pattern in the context of a ven
 `The Composite Design Pattern`        
 is a structural design pattern that allows you to compose objects into tree-like structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions of objects uniformly.
 
+`The Adapter Design Pattern`    
+is a structural design pattern that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
