@@ -65,6 +65,12 @@ ensures that a class has only one instance and provides a global point of access
 `The Builder Design Pattern`    
 is a creational pattern that separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is particularly useful when an object needs to be created with many optional parameters.
 
+`The Prototype Design Pattern`    
+is a creational pattern that involves creating new objects by copying an existing object, known as the prototype. This pattern is useful when the cost of creating a new instance of an object is more expensive or complex than copying an existing instance.
+
+`The Bridge Pattern`    
+is a structural design pattern that separates abstraction from implementation, allowing them to vary independently. It involves creating a bridge interface, which acts as a bridge between client code and the actual implementation. This pattern is useful when you want to avoid a permanent binding between an abstraction and its implementation and when both the abstraction and implementation need to evolve independently.
+
 ********************************************
 
 LLD Topics 🔥 🔥 :
